@@ -2,8 +2,8 @@ package com.fes.wordy;
 
 /**
  * Verifies that the word can be found in a particular board or instance. <br>
- * NOTE: This is the extra credit interface. You should implement this interface
- * and hook it up in the your implementation of IWordy.
+ * NOTE: This is the extra credit interface. We should implement this interface
+ * and hook it up in the our implementation of IWordy.
  */
 public interface IWordInBoardValidator {
 	/**
