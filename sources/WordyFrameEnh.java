@@ -26,8 +26,7 @@ import javax.swing.border.EmptyBorder;
 import javax.swing.border.EtchedBorder;
 
 /**
- * This code was auto-generated from JFormDesigner, so you can ignore the entire
- * file, especially the portions within the "DO NOT MODIFY" sections. :-)
+ * The Main Board for the Wordy Game - GUI screen
  */
 public class WordyFrameEnh extends JFrame {
 
@@ -95,8 +94,6 @@ public class WordyFrameEnh extends JFrame {
 
 	private void initComponents() {
 		_labelClickListener = new LabelClickListener();
-		// JFormDesigner - Component initialization - DO NOT MODIFY
-		// //GEN-BEGIN:initComponents
 		_gridLabel = new JLabel();
 		_wordListLabel = new JLabel();
 		_boardPanel = new JPanel();
@@ -397,12 +394,9 @@ public class WordyFrameEnh extends JFrame {
 				new Insets(0, 0, 0, 0), 0, 0));
 		setSize(500, 450);
 		setLocationRelativeTo(getOwner());
-		// JFormDesigner - End of component initialization
-		// //GEN-END:initComponents
+		
 	}
 
-	// JFormDesigner - Variables declaration - DO NOT MODIFY
-	// //GEN-BEGIN:variables
 	private JLabel _gridLabel;
 	private JLabel _wordListLabel;
 	private JPanel _boardPanel;
@@ -429,7 +423,6 @@ public class WordyFrameEnh extends JFrame {
 	private JLabel _pointsLabel;
 	private JButton _generateNewBoard;
 	private JButton _computeScore;
-	// JFormDesigner - End of variables declaration //GEN-END:variables
 	
 	private JButton _clearPanelButton;
 	private JButton _delButton;
