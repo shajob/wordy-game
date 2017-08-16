@@ -4,7 +4,7 @@ import com.fes.wordy.IWordScorer;
 import com.fes.wordy.util.ArgCheck;
 
 /**
- * The Scorer Class is the Final 
+ * The Scorer Class is the  
  * Score assigner upon Validation 
  * As per Generic Validator / InBoard Validator
  */
