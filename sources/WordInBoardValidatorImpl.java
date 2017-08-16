@@ -8,7 +8,7 @@ import com.fes.wordy.util.FileUtil;
 
 /**
  * InBoard Validator with respect to Particular
- * Board Values at each Cell , handles below cases 
+ * Board Values at each Cell, handles below cases 
  * Dictionary , Adjoining & InBoard validation
  * @author Sharadha
  *
